@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about AI and ML with Dr. Corey at USC
-- 👯 I’m looking to collaborate on a summer long capstone project with other NACME memebers
-- 🤔 I’m looking for help with wheres the best place to eat in LA
+- 🌱 I’m currently attending Texas A&M and pursuing a degree in Mechanical Engineering
+- 👯 
+- 🤔
 <!--
 **Parkersep/Parkersep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
